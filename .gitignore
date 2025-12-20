@@ -6,7 +6,6 @@ libtiff_work/tiff-4.0.4/install*/
 libtiff_work/tiff-4.0.4-*/install*/
 
 # Fuzz outputs
-rad_out/
 fuzz_tiffinfo_out/
 fuzz_tiffinfo_in/queue/
 fuzz_tiffinfo_in/crashes/
